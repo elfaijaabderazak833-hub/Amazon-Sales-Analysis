@@ -1,0 +1,7 @@
+Amazon Sales Analysis Report
+============================
+
+Total Products: 100
+Total Categories: 4
+Total Revenue: 348,972,760.10 USD
+Top 5 Categories by Revenue:
